@@ -1,0 +1,27 @@
+.yarn-error.logs
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Secrets
+/**/**/.env
+/**/**/origin.server
+/**/**/server.manifest
+/**/**/server.registry
+
+# Trash
+/**/**/.crash.log
+/**/**/.tmp
+/**/**/dist
+/**/**/node_modules
+/**/**/corenode_modules
+/**/**/.DS_Store
+
+# Logs
+/**/**/npm-debug.log*
+/**/**/yarn-error.log
+/**/**/dumps.log
+/**/**/corenode.log
+
+# Temporal configurations
+/**/**/.aliaser
