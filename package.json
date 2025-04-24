@@ -1,6 +1,6 @@
 {
   "name": "@ragestudio/hermes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "RageStudio",
   "license": "MIT",
   "funding": [
@@ -25,6 +25,7 @@
   "dependencies": {
     "commander": "^12.1.0",
     "dotenv": "^16.3.1",
+    "fast-glob": "^3.3.3",
     "mz": "^2.7.0",
     "rimraf": "^6.0.1",
     "string-width": "4.2.2",
